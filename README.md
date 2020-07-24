@@ -1,2 +1,2 @@
 # Meditation-App
-A meditation web app made with Html,Css and Js.
+A meditation web app made with Html, Css and Js.
